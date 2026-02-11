@@ -1,0 +1,14 @@
+# Logs e Dados sensíveis (O que te barrou)
+logs.txt
+log.txt
+Check.txt
+*.log
+
+# Pastas do PyInstaller (Arquivos pesados e inúteis no GitHub)
+build/
+dist/
+__pycache__/
+*.spec
+
+# Executáveis
+*.exe
